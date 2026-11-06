@@ -14,7 +14,7 @@ Software & AI Engineer and Computer Science Graduate from the Islamic University
 
 - **Education:** B.Sc. in Computer Science - Islamic University of Madinah
 - **Credentials:** 16 verified professional certifications in Computer Vision, Deep Learning, and Cloud from KAUST Academy, DeepLearning.AI, IBM, and AWS.
-- **Focus Areas:** Modern Full-Stack Architecture (React 19/18, TypeScript, Supabase, Python, PostgreSQL), Deep Learning & Computer Vision (PyTorch, Vision Transformers), and Cloud Deployment.
+- **Focus Areas:** Modern Full-Stack Architecture (React 19/18, TypeScript, Go/Golang, Django 5, Supabase, PostgreSQL), AI & Semantic Search (pgvector, Azure OpenAI, PyTorch), and Enterprise Cloud Systems.
 
 ---
 
@@ -22,6 +22,8 @@ Software & AI Engineer and Computer Science Graduate from the Islamic University
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
+| **Saaed HR & Payroll ERP** | Enterprise Arabic-first HRMS with automated Saudi labor compliance (GOSI, EOS, WPS banking formats), PII Fernet encryption, and 15+ Django backend apps. | React 19, TypeScript, Django 5, DRF, PostgreSQL, Fernet | [Case Study](https://github.com/Abdulqader-Alshihabi/Sync-ERP-HR) |
+| **Research Commercialisation (res-handler)** | High-performance institutional platform converting academic research into commercial tickets with AI vector search matching real-world industry problems. | Go (Golang 1.25), htmx, PostgreSQL, pgvector, Azure OpenAI, Docker | [Case Study](https://github.com/Abdulqader-Alshihabi/res-handler) |
 | **Shakkel Industrial Store** | Production B2B/B2C digital commerce platform for Saudi industrial & packaging supplies with dynamic quotation (RFQ) engine and real-time order sync. | React 18, TypeScript, Tailwind, Supabase, PostgreSQL | [Live Store](https://shakkel.store/) • [Case Study](https://github.com/Abdulqader-Alshihabi/Industrial_Shakkel) |
 | **Shakkel Learning Hub** | Enterprise corporate workforce training & LMS platform featuring granular PostgreSQL RLS, Tiptap course authoring, exam integrity, and XLSX reporting. | React 19, TypeScript, TanStack Router, Supabase, Tailwind CSS v4 | [Live Platform](https://learn.shakkel.store/) • [Case Study](https://github.com/Abdulqader-Alshihabi/shakkel-learn) |
 | **Islamic University CRIS** | Scholarly Research Information System ingesting 7,352 papers and 71,567 citations with automated Elsevier Scopus and OpenAlex ETL reconciliation pipelines. | React 18, TypeScript, PostgreSQL (PL/pgSQL), Scopus API, Recharts | [Case Study](https://github.com/Abdulqader-Alshihabi/Islamic-University-CRIS) |
@@ -33,12 +35,13 @@ Software & AI Engineer and Computer Science Graduate from the Islamic University
 
 ## Technical Skills
 
-- **Languages:** Python, TypeScript, JavaScript (ES6+), SQL (PostgreSQL, SQLite), HTML5, CSS3
-- **Frontend Development:** React 19 / React 18, TanStack Router, Vite, Tailwind CSS v4, Radix UI, Shadcn UI
-- **Backend & Cloud:** Supabase, PostgreSQL (PL/pgSQL, RLS), RESTful APIs, WebSockets (Realtime)
-- **AI & Data Science:** PyTorch, Torchvision, Vision Transformers (ViT), Pandas, NumPy, Scikit-Learn
+- **Languages:** Python 3, Go (Golang 1.25), TypeScript, JavaScript (ES6+), SQL (PostgreSQL, SQLite), HTML5, CSS3
+- **Frontend Development:** React 19 / React 18, TanStack Router, TanStack Query, Vite, Tailwind CSS v4, htmx, Radix UI, Shadcn UI
+- **Backend & Cloud:** Django 5, Django REST Framework (DRF), Chi Router (Go), Supabase, PostgreSQL 15 (PL/pgSQL, RLS), RESTful APIs, WebSockets (Realtime)
+- **AI & Data Science:** pgvector, Azure OpenAI Embeddings, PyTorch, Torchvision, Vision Transformers (ViT), Pandas, NumPy, Scikit-Learn
+- **Security & Architecture:** Field-Level Symmetric Encryption (Fernet), Role-Based Access Control (RBAC), Pentest Remediation, Zero-Trust Database Models
 - **Desktop Engineering:** PyQt5, Qt Designer, Component-Driven Design, MVC Architecture
-- **DevOps & Tools:** Git, GitHub Actions, Docker, NPM, Bun, VS Code
+- **DevOps & Containers:** Docker, Docker Compose, Azure Container Apps, Git, GitHub Actions, NPM, Bun, VS Code
 
 ---
 
