@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/3D_PORTFOLIO-abdulqader--alshihabi.github.io-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdulqader-alshihabi.github.io/)
 [![Live Flagship](https://img.shields.io/badge/GRADUATION_PROJECT-iu--cris--system.vercel.app-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://iu-cris-system.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Abdulqader_Alshihabi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulqader-alshihabi-859b19260)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Abdulqader_Alshihabi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulqader-alshihabi-859b19260/)
 [![Email](https://img.shields.io/badge/EMAIL-abdulqader.moh.2003%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulqader.moh.2003@gmail.com)
 [![Location](https://img.shields.io/badge/LOCATION-Madinah%2C_Saudi_Arabia-006C35?style=for-the-badge)](https://wa.me/966582733968)
 
@@ -75,6 +75,6 @@ I build **audit-grade full-stack platforms, financial/compliance database kernel
 
 **Open to impactful Software Engineering, AI Systems & Full-Stack R&D opportunities**
 
-[Explore Interactive 3D Portfolio](https://abdulqader-alshihabi.github.io/) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/abdulqader-alshihabi-859b19260) &nbsp;|&nbsp; [WhatsApp (+966 58 273 3968)](https://wa.me/966582733968) &nbsp;|&nbsp; `abdulqader.moh.2003@gmail.com`
+[Explore Interactive 3D Portfolio](https://abdulqader-alshihabi.github.io/) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/abdulqader-alshihabi-859b19260/) &nbsp;|&nbsp; [WhatsApp (+966 58 273 3968)](https://wa.me/966582733968) &nbsp;|&nbsp; `abdulqader.moh.2003@gmail.com`
 
 </div>
